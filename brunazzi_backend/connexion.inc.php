@@ -4,7 +4,6 @@
     DEFINE('DB_USER', "root"); //User
     DEFINE('DB_PASS', ""); //Password
 
-
     function getConnexion() 
     {
         static $dbb = null; //ne perd pas sa valeur a chaque appel

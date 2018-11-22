@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "editor.fontFamily": "Comic Sans MS",
+    "editor.tokenColorCustomizations": {
+        "comments": "#00FF00"
+    },
+    "editor.detectIndentation": false,
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false,
+    "editor.formatOnType": false,
+}
