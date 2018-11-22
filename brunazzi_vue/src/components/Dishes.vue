@@ -9,8 +9,8 @@
 
         <v-card-title primary-title>
           <div>
-            <h3 class="headline mb-0">Kangaroo Valley Safari</h3>
-            <div>Located two hours south of Sydney in the <br>Southern Highlands of New South Wales, ...</div>
+            <h3 class="headline mb-0">Flavor Text</h3>
+            <div>Lorem Ipsum ....</div>
           </div>
         </v-card-title>
 
